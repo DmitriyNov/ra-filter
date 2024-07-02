@@ -1,0 +1,23 @@
+.portfolio-viget {
+    margin: 30px auto;
+    max-width: 970px;
+}
+
+.toolbar {
+    display: flex;
+    gap: 10px;
+    margin: 0 0 30px 10px;
+}
+
+.projectlist {
+    column-count: 3;
+}
+
+.project-img {
+    width: 300px;
+    margin: 20px 10px;
+}
+
+.project-img:first-child {
+    margin-top: 0;
+}
